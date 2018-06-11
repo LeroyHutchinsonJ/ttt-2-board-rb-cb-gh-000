@@ -3,4 +3,4 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 board.push("pokemon")
 
-board
+board.inspect
