@@ -2,3 +2,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 board.push("pokemon")
+
+board
